@@ -1,3 +1,2 @@
 # coordinate_practice
-
-git remote add origin https://github.com/rladpwl0512/coordinate_practice.git
+https://rladpwl0512.github.io/coordinate_practice/
